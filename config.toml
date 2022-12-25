@@ -1,0 +1,333 @@
+######################## default configuration ####################
+baseURL = "https://openinfra.id"
+title = "OpenStack & OpenInfra Indonesia User Group"
+theme = "bizcraft-hugo"
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "10"
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# disqus short name
+disqusShortname = "openinfraid" # get your shortname form here : https://disqus.com
+
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS"]
+
+[markup.goldmark.renderer]
+unsafe= true
+
+############################# Plugins ##############################
+
+# CSS Fontawesome6
+[[params.plugins.css]]
+link = "plugins/fontawesome6/css/fontawesome.min.css"
+[[params.plugins.css]]
+link = "plugins/fontawesome6/css/solid.css"
+[[params.plugins.css]]
+link = "plugins/fontawesome6/css/brands.css"
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/animate.css"
+[[params.plugins.css]]
+link = "plugins/prettyPhoto.css"
+[[params.plugins.css]]
+link = "plugins/owl/owl.carousel.css"
+[[params.plugins.css]]
+link = "plugins/owl/owl.theme.css"
+[[params.plugins.css]]
+link = "plugins/flex-slider/flexslider.css"
+[[params.plugins.css]]
+link = "plugins/cd-hero/cd-hero.css"
+# Internal CSS
+[[params.plugins.css]]
+link = "plugins/openinfra/logo.css"
+[[params.plugins.css]]
+link = "plugins/openinfra/icon.css"
+
+# JS Fontawesome6
+[[params.plugins.js]]
+link = "plugins/fontawesome6/js/fontawesome.min.js"
+[[params.plugins.js]]
+link = "plugins/fontawesome6/js/solid.js"
+[[params.plugins.js]]
+link = "plugins/fontawesome6/js/brands.js"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/style-switcher.js"
+[[params.plugins.js]]
+link = "plugins/owl/owl.carousel.js"
+[[params.plugins.js]]
+link = "plugins/jquery.prettyPhoto.js"
+[[params.plugins.js]]
+link = "plugins/flex-slider/jquery.flexslider.js"
+[[params.plugins.js]]
+link = "plugins/cd-hero/cd-hero.js"
+[[params.plugins.js]]
+link = "plugins/isotope.js"
+[[params.plugins.js]]
+link = "plugins/ini.isotope.js"
+[[params.plugins.js]]
+link = "plugins/wow.min.js"
+[[params.plugins.js]]
+link = "plugins/jquery.easing.1.3.js"
+[[params.plugins.js]]
+link = "plugins/jquery.counterup.min.js"
+[[params.plugins.js]]
+link = "plugins/waypoints.min.js"
+
+
+############################## English navigation ###############################
+
+[[Languages.en.menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Events"
+URL = "portfolio"
+weight = 3
+
+  [[Languages.en.menu.main]]
+  parent = "Events"
+  name = "OpenInfra Days Indonesia"
+  URL = "oid"
+
+  [[Languages.en.menu.main]]
+  parent = "Events"
+  name = "OpenInfra Days Asia"
+  URL = "https://openinfra.asia"
+
+  [[Languages.en.menu.main]]
+  parent = "Events"
+  name = "Regular Meetup"
+  URL = "https://www.meetup.com/openinfraid/events"
+
+#[[Languages.en.menu.main]]
+#name = "Blog"
+#URL = "blog/"
+#weight = 4
+
+[[Languages.en.menu.main]]
+weight = 5
+name = "Pages"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "Volunteer"
+  URL = "volunteer"
+
+  [[Languages.ed.menu.main]]
+  parent = "Pages"
+  name = "Blog"
+  URL = "blog"
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "FAQ"
+  URL = "faq"
+
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "Service"
+#  URL = "service/"
+
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "Team"
+#  URL = "team/"
+
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "Pricing"
+#  URL = "pricing/"
+  
+[[Languages.en.menu.main]]
+name = "Gallery"
+URL = "https://www.flickr.com/photos/182934431@N07/albums"
+weight = 6
+
+
+[[Languages.en.menu.main]]
+name = "Contact"
+URL = "contact/"
+weight = 7
+
+
+############################## Indonesian navigation ###############################
+
+[[Languages.id.menu.main]]
+name = "Tentang"
+URL = "about"
+weight = 2
+
+[[Languages.id.menu.main]]
+name = "Kegiatan"
+URL = "portfolio"
+weight = 3
+
+  [[Languages.id.menu.main]]
+  parent = "Kegiatan"
+  name = "OpenInfra Days Indonesia"
+  URL = "oid"
+
+  [[Languages.id.menu.main]]
+  parent = "Kegiatan"
+  name = "OpenInfra Days Asia"
+  URL = "https://openinfra.asia"
+
+  [[Languages.id.menu.main]]
+  parent = "Kegiatan"
+  name = "Regular Meetup"
+  URL = "https://www.meetup.com/openinfraid/events"
+
+[[Languages.id.menu.main]]
+weight = 5
+name = "Pages"
+hasChildren = true
+
+  [[Languages.id.menu.main]]
+  parent = "Pages"
+  name = "Relawan"
+  URL = "volunteer"
+
+  [[Languages.id.menu.main]]
+  parent = "Pages"
+  name = "Blog"
+  URL = "blog"
+
+  [[Languages.id.menu.main]]
+  parent = "Pages"
+  name = "TILIL"
+  URL = "faq"
+
+#  [[Languages.id.menu.main]]
+#  parent = "Pages"
+#  name = "Service"
+#  URL = "service/"
+
+#  [[Languages.id.menu.main]]
+#  parent = "Pages"
+#  name = "Team"
+#  URL = "team/"
+
+#  [[Languages.id.menu.main]]
+#  parent = "Pages"
+#  name = "Pricing"
+#  URL = "pricing/"
+  
+[[Languages.id.menu.main]]
+name = "Galeri"
+URL = "https://www.flickr.com/photos/182934431@N07/albums"
+weight = 6
+
+[[Languages.id.menu.main]]
+name = "Kontak"
+URL = "contact"
+weight = 7
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "Group for anyone in Indonesia that interested in OpenInfra Foundation project"
+author = "OpenStack & OpenInfra Indonesia"
+# contact info
+address = "Indonesia"
+phone = "+62-0000-0000"
+email = "info@openinfra.id"
+# contact form action
+contact_form_action = "https://formspree.io/f/xgebwpbo" # contact form works with https://formspree.io
+# copyright
+copyright = "Find an issue with anything on this site? send Issue on [GitHub](https://github.com/openinfraid)"
+
+# flickr photos
+#[[params.flickr_photos]]
+#image = "images/gallery/1.jpg"
+#[[params.flickr_photos]]
+#image = "images/gallery/2.jpg"
+#[[params.flickr_photos]]
+#image = "images/gallery/3.jpg"
+#[[params.flickr_photos]]
+#image = "images/gallery/4.jpg"
+#[[params.flickr_photos]]
+#image = "images/gallery/5.jpg"
+#[[params.flickr_photos]]
+#image = "images/gallery/6.jpg"
+#[[params.flickr_photos]]
+#image = "images/gallery/7.jpg"
+#[[params.flickr_photos]]
+#image = "images/gallery/8.jpg"
+#[[params.flickr_photos]]
+#image = "images/gallery/9.jpg"
+
+# google map
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+  
+############################# social site ########################
+[[params.social]]
+name = "facebook"
+icon = "fa-brands fa-facebook" # fontawesome icon pack 6.2.1 | https://fontawesome.com/v6.2.1/icons/
+link = "https://www.facebook.com/openinfraid"
+
+[[params.social]]
+name = "twitter"
+icon = "fa-brands fa-twitter" # fontawesome icon pack 6.2.1 | https://fontawesome.com/v6.2.1/icons/
+link = "https://twitter.com/openinfraid"
+
+[[params.social]]
+name = "instagram"
+icon = "fa-brands fa-instagram" # fontawesome icon pack 6.2.1 | https://fontawesome.com/v6.2.1/icons/
+link = "https://www.instagram.com/openinfraid"
+
+[[params.social]]
+name = "github"
+icon = "fa-brands fa-github" # fontawesome icon pack 6.2.1 | https://fontawesome.com/v6.2.1/icons/
+link = "https://github.com/openinfraid"
+
+[[params.social]]
+name = "linkedin"
+icon = "fa-brands fa-linkedin" # fontawesome icon pack 6.2.1 | https://fontawesome.com/v6.2.1/icons/
+link = "https://www.linkedin.com/company/openinfra-foundation"
+
+################################### English language #####################################
+[Languages.en]
+languageName = "EN"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+# footer content
+footer_content = "Group for anyone in Indonesia that interested in OpenInfra Foundation project."
+# copyright
+copyright = "Find an issue with anything on this site? send Issue on [GitHub](https://github.com/openinfraid)"
+
+################################### Indonesian language #####################################
+[Languages.id]
+languageName = "ID"
+languageCode = "id-id"
+contentDir = "content/indonesia"
+weight = 2
+home = "Beranda"
+# footer content
+footer_content = "Grup untuk siapa saja di Indonesia yang tertarik dengan proyek OpenInfra Foundation."
+# copyright
+copyright = "Menemukan masalah apa pun di situs ini? kirim dan buat Issue di [GitHub](https://github.com/openinfraid)"
