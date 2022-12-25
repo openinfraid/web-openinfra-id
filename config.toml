@@ -129,7 +129,7 @@ hasChildren = true
   name = "Volunteer"
   URL = "volunteer"
 
-  [[Languages.ed.menu.main]]
+  [[Languages.en.menu.main]]
   parent = "Pages"
   name = "Blog"
   URL = "blog"
