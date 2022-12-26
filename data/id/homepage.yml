@@ -10,23 +10,23 @@ slider:
       image_position : "false"
       # slider navigator
       navigator:
-        label : "Join"
+        label : "Bergabung"
         icon : "fa-solid fa-hand-point-up fa-2xl" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
 
       # slider buttons
       buttons:
         # button loop
-        - label : "About Us"
+        - label : "Tentang Kita"
           style : "white"
           link : "about"
           
         # button loop
-        - label : "Join Us"
+        - label : "Bergabung"
           style : "solid"
           link : "https://www.meetup.com/openinfraid/?action=join"
 
     ############### Slider item loop
-    - title : "PARTICIPATE IN A COMMUNITY EVENT"
+    - title : "BERPARTISIPASI DALAM ACARA KOMUNITAS"
       subtitle : "COME AND JOIN US!"
       bg_image : "images/slider/osm-7.webp"
       image : "images/logo.png"
@@ -39,25 +39,25 @@ slider:
       # slider buttons
       buttons:
         # button loop
-        - label : "UPCOMING EVENT"
+        - label : "ACARA YANG AKAN DATANG"
           style : "solid"
           link : "https://www.meetup.com/openinfraid/events"
 
     ############### Slider item loop
-    - title : "SHARE YOUR IDEAS, KNOWLEDGE, AND EXPERIENCES"
-      subtitle : "BECOME A SPEAKER!"
+    - title : "BAGIKAN IDE, PENGETAHUAN, DAN PENGALAMAN ANDA"
+      subtitle : "JADILAH PEMBICARA!"
       bg_image : "images/slider/osm-8.webp"
       image : ""
       image_position : "false"
       # slider navigator
       navigator:
-        label : "Speaker"
+        label : "Pembicara"
         icon : "fa-solid fa-microphone fa-2xl" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
 
       # slider buttons
       buttons:
         # button loop
-        - label : "Guideline"
+        - label : "Pedoman"
           style : "white"
           link : "#"
           
