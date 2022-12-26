@@ -11,12 +11,6 @@ company_profile:
       content : "Over the year we have lots of experience in our field. In sit amet massa sapien. Vestibulum diam turpis, gravida in lobortis id, ornare a eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis nulla non elit dignissim suscipit. Duis lorem nulla, eleifend."
       
     # profile tab item loop
-    - name : "Organizers"
-      icon : "fa-users" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "We Have Worldwide Business"
-      content : "Over the year we have lots of experience in our field. In sit amet massa sapien. Vestibulum diam turpis, gravida in lobortis id, ornare a eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis nulla non elit dignissim suscipit. Duis lorem nulla, eleifend."
-      
-    # profile tab item loop
     - name : "Sponsors"
       icon : "fa-usd" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "We Build Readymade Applications"

@@ -195,31 +195,31 @@ weight = 3
 
   [[Languages.id.menu.main]]
   parent = "Kegiatan"
-  name = "Regular Meetup"
+  name = "Pertemuan Rutin"
   URL = "https://www.meetup.com/openinfraid/events"
 
 [[Languages.id.menu.main]]
 weight = 5
-name = "Pages"
+name = "Halaman"
 hasChildren = true
 
   [[Languages.id.menu.main]]
-  parent = "Pages"
+  parent = "Halaman"
   name = "Pembicara"
   URL = "speakers"
 
   [[Languages.id.menu.main]]
-  parent = "Pages"
+  parent = "Halaman"
   name = "Relawan"
   URL = "volunteers"
 
   [[Languages.id.menu.main]]
-  parent = "Pages"
+  parent = "Halaman"
   name = "Blog"
   URL = "blog"
 
   [[Languages.id.menu.main]]
-  parent = "Pages"
+  parent = "Halaman"
   name = "TILIL"
   URL = "faq"
 
