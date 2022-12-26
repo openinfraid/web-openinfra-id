@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="section bg-light">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-10 mx-auto">
+				<div class="text-center">
+          <div class="img-hexagon">
+						{{ if .Params.Image }}
+						<img class="mb-4" src="{{.Params.Image | absURL }}">
+						{{else if .Params.Email}}
+						<img class="mb-4" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon">
+						{{ end }}
+            <span class="img-top"></span>
+            <span class="img-bottom"></span>
+							<h4 class="font-weight-bold">
+								{{ .Title }}
+							</h4>
+          </div>
+					<hr>
+          <div class="text-left">
+            <h4>Bio</h4>
+            <p> {{ .Params.bio }} </p>
+            <h4>Hometown</h4>
+            <p> {{ .Params.hometown }} </p>
+            <h4>Affiliation</h4>
+            <p> {{ .Params.affiliation }} </p>
+            <h4>Languange</h4>
+            <ul>
+              {{ range .Params.languange }}
+              <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+            <h4>Presentations</h4>
+            <ul>
+              {{ range .Params.presentation }}
+              <li><a href="{{ .link | absURL }}">{{ .title }}
+							</a></li>
+              {{ end }}
+            </ul>
+          </div>
+          <h4>Connect</h4>
+          <ul class="list-inline">
+            {{ range .Params.Social }}
+            <li class="list-inline-item"><a href="{{ .link | absURL }}">
+              <span class="icon-pentagon wow bounceIn"><i class="fa-brands {{.icon}}"></i></span>
+            </a></li>
+            {{ end }}
+          </ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}

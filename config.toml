@@ -126,8 +126,13 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "Volunteer"
-  URL = "volunteer"
+  name = "Volunteers"
+  URL = "volunteers"
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "Speakers"
+  URL = "speakers"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
@@ -200,8 +205,13 @@ hasChildren = true
 
   [[Languages.id.menu.main]]
   parent = "Pages"
+  name = "Pembicara"
+  URL = "speakers"
+
+  [[Languages.id.menu.main]]
+  parent = "Pages"
   name = "Relawan"
-  URL = "volunteer"
+  URL = "volunteers"
 
   [[Languages.id.menu.main]]
   parent = "Pages"
