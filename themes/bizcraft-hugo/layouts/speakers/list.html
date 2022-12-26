@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.speakers }}
+<section id="team" class="team">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 heading">
+        {{ with .icon }} <span class="title-icon float-left"><i class="{{ . }}"></i></span> {{ end }}
+        <h2 class="title">{{ .title | markdownify }} <span class="title-desc">{{ .subtitle | markdownify }}</span></h2>
+      </div>
+    </div><!-- Title row end -->
+{{ end }}
+
+    <div class="row text-left">
+      <ul>
+				{{ range  ( where .Site.RegularPages "Type" "speakers" ) }}
+						<li><a href="{{ `speakers/` | relLangURL }}{{ .File.BaseFileName | urlize }}">{{ .Title | title }}</a></li>
+				{{ end }}
+      <ul>
+    </div>
+    <!--/ Content row end -->
+  </div>
+  <!--/ Container end -->
+</section>
+{{ end }}
