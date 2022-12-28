@@ -27,7 +27,7 @@ slider:
 
     ############### Slider item loop
     - title : "BERPARTISIPASI DALAM ACARA KOMUNITAS"
-      subtitle : "COME AND JOIN US!"
+      subtitle : "DATANG DAN BERGABUNGLAH DENGAN KAMI!"
       bg_image : "images/slider/osm-7.webp"
       image : "images/logo.png"
       image_position : "left"
@@ -59,7 +59,7 @@ slider:
         # button loop
         - label : "Pedoman"
           style : "white"
-          link : "#"
+          link : "https://docs.google.com/document/d/1TrjTJbD4J8rRmGVCrwMJrGikhbUkpk2AQbJmFGn2Zzc/edit?usp=sharing"
           
         # button loop
         - label : "Submit"

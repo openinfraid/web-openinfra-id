@@ -59,7 +59,7 @@ slider:
         # button loop
         - label : "Guideline"
           style : "white"
-          link : "#"
+          link : "https://docs.google.com/document/d/1TrjTJbD4J8rRmGVCrwMJrGikhbUkpk2AQbJmFGn2Zzc/edit?usp=sharing"
           
         # button loop
         - label : "Submit"
