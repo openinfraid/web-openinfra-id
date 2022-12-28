@@ -1,35 +1,35 @@
 - id: recent_post
-  translation: Récents Postes
+  translation: Posting Terbaru
 
 - id: blog_categories
-  translation: Catégories de blogs
+  translation: Kategori Blog
 
 - id: popular_tags
-  translation: Tags populaires
+  translation: Tag Populer
 
 - id: flickr_photos
-  translation: Photos Flickr
+  translation: Flickr Foto
 
 - id: about_us
-  translation: À propos de nous
+  translation: Tentang Kami
 
 - id: continue_reading
-  translation: Continuer la lecture
+  translation: Lanjut Membaca
 
 - id: name
-  translation: Nom
+  translation: Nama
 
 - id: email
-  translation: E-mail
+  translation: Surel
 
 - id: subject
-  translation: Matière
+  translation: Subjek
 
 - id: message
-  translation: Un message
+  translation: Pesan
 
 - id: send_message
-  translation: Envoyer le message
+  translation: Kirim Pesan
 
 - id: contact_details
-  translation: Détails du contact
+  translation: Detail Kontak
