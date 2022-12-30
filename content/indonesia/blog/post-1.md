@@ -2,7 +2,7 @@
 title: "There are many variations of passages"
 date: 2021-03-12T12:14:34+06:00
 # page header background image
-page_header_bg: "images/banner/banner1.jpg"
+page_header_bg: "images/banner/banner-oid.png.jpg"
 # post thumb
 image: "images/blog/blog1.jpg"
 # post author

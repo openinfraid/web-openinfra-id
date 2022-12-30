@@ -2,7 +2,7 @@
 title: "OpenStack Meetup #8"
 date: 2020-05-12T12:14:34+06:00
 # page header background image
-page_header_bg: "images/banner/banner1.jpg"
+page_header_bg: "images/banner/banner-oid.png.jpg"
 images: 
   - "images/portfolio/meetup-8.jpg"
 # filter types

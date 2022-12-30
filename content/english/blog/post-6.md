@@ -2,7 +2,7 @@
 title: "Over the year we have lots of experience"
 date: 2020-05-12T12:14:34+06:00
 # page header background image
-page_header_bg: "images/banner/banner1.jpg"
+page_header_bg: "images/banner/banner-oid.png.jpg"
 # post thumb
 image: "images/blog/blog3.jpg"
 # post author

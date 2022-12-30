@@ -1,7 +1,7 @@
 ---
 title: "Aji Arya"
 # page header background image
-page_header_bg: "images/banner/banner1.jpg"
+page_header_bg: "images/banner/banner-oid.png.jpg"
 # portrait
 image: "live.staticflickr.com/65535/49597330458_0e6fb89fe6_n.jpg"
 # email
