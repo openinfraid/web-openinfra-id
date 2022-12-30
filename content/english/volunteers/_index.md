@@ -17,5 +17,4 @@ volunteers@openinfra.id
 ### Let's Contribute
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, natus
-voluptatibus adipisci porro magni dolore eos eius ducimus corporis quos perspiciatis quis iste, vitae
-autem libero ullam omnis cupiditate quam.
+voluptatibus adipisci porro magni dolore eos eius ducimus corporis quos perspiciatis quis iste, vitae.
