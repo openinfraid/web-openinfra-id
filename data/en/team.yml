@@ -51,19 +51,19 @@ team_member:
     social:
       - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "facebook.com/aryuliantos"
+        link : "https://facebook.com/aryuliantos"
         
       - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "twitter.com/aryuliantos"
+        link : "https://twitter.com/aryuliantos"
         
       - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "linkedin.com/in/aryulianto"
+        link : "https://linkedin.com/in/aryulianto"
         
       - name : "website"
         icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "aryulianto.com"
+        link : "https://aryulianto.com"
         
   # team member loop
   - name : "Sartika Lestari"
