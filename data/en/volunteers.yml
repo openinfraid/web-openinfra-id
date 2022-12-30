@@ -7,11 +7,16 @@ volunteers:
       - name : "Qualifications"
         apply_url : "https://forms.gle/Q8Xvvy4VTGzcm7Hw9"
         bullet_point:
-          - Lorem Ipsum is simply dummy text of the printing and typesetting industry
-          - Lorem Ipsum is simply dummy text of the printing and typesetting industry
+          - Indonesian Citizens (WNI)
+          - Have internet connection
+          - Have strong interest in Open Infrastructure technologies
+          - Committed to volunteering
 
       # job accordion loop item
       - name : "Responsibilities"
         bullet_point:
-          - Lorem Ipsum is simply dummy text of the printing and typesetting industry
-          - Lorem Ipsum is simply dummy text of the printing and typesetting industry
+          - Event - ensuring events go smoothly, including choosing venues and hiring spakers.
+          - Content - responsible for creating and publishing content on all social media platforms.
+          - Artwork - create posters, templates, or anything related to design.
+          - Infrastructure - managing, troubleshooting, and updating all infrastructure website, mail, pages, etc.
+          - Public relations/Account - developing relationships with sponsors or other organizations.
