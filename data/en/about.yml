@@ -15,7 +15,7 @@ company_profile:
     - name : "Sponsors"
       icon : "fa-usd" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Sponsors"
-      content : "If you are interested in hearing more about how your organisation can be a part of this community, leave us a message or contact us at sponsor@openinfra.id"
+      content : "If you are interested in hearing more about how your organisation can be a part of this community, leave us a [message](https://www.openinfra.id/contact/) or email us at sponsor@openinfra.id"
       
 ############################### funfact ##################################
 funfact:
