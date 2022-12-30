@@ -4,8 +4,8 @@ title_icon : "fa-sitemap" # fontawesome icon pack 4.7 | https://fontawesome.com/
 team_member:
   # team member loop
   - name : "Aji Arya"
-    image : "images/team/team1.jpg"
-    designation : "Infrastructure"
+    image : "images/team/arya.png"
+    designation : "Tenggarong"
     social:
       - name : "fb"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
@@ -25,8 +25,8 @@ team_member:
         
   # team member loop
   - name : "Bayu Aji"
-    image : "images/team/team2.jpg"
-    designation : "Artwork"
+    image : "images/team/bayu.png"
+    designation : "Yogyakarta"
     social:
       - name : "fb"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
@@ -46,8 +46,8 @@ team_member:
         
   # team member loop
   - name : "Saputro Aryulianto"
-    image : "images/team/team4.jpg"
-    designation : "Infrastructure"
+    image : "images/team/ary.png"
+    designation : "Bogor"
     social:
       - name : "fb"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
@@ -67,8 +67,8 @@ team_member:
         
   # team member loop
   - name : "Sartika Lestari"
-    image : "images/team/team4.jpg"
-    designation : "Public Relations"
+    image : "images/team/tika.png"
+    designation : "Bogor"
     social:
       - name : "fb"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
@@ -89,7 +89,7 @@ team_member:
   # team member loop
   - name : "Robert Aleska"
     image : "images/team/team2.jpg"
-    designation : "Web Designer"
+    designation : "Surabaya"
     social:
       - name : "fb"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
@@ -110,7 +110,7 @@ team_member:
   # team member loop
   - name : "Taline Voski"
     image : "images/team/team3.jpg"
-    designation : "Web Designer"
+    designation : "Condet"
     social:
       - name : "fb"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
@@ -131,7 +131,7 @@ team_member:
   # team member loop
   - name : "Alban Spencer"
     image : "images/team/team4.jpg"
-    designation : "Web Designer"
+    designation : "Depok"
     social:
       - name : "fb"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
@@ -145,6 +145,27 @@ team_member:
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
+      - name : "website"
+        icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "#"
+
+  # team member loop
+  - name : "Alban Spencer"
+    image : "images/team/team4.jpg"
+    designation : "Bekasi"
+    social:
+      - name : "fb"
+        icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "#"
+
+      - name : "twt"
+        icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "#"
+
+      - name : "linkdin"
+        icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "#"
+
       - name : "website"
         icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"

@@ -102,7 +102,7 @@ weight = 3
   [[Languages.en.menu.main]]
   parent = "Events"
   name = "OpenInfra Days Indonesia"
-  URL = "oid"
+  URL = "https://events.openinfra.id"
 
   [[Languages.en.menu.main]]
   parent = "Events"

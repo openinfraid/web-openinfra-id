@@ -1,0 +1,17 @@
+volunteers:
+  ########################## volunteer item loop ##########################
+  - title : "Call for Volunteers"
+    content : "The OpenStack & OpenInfra Indonesia community is opening opportunities for those of you who want to contribute to becoming new volunteers/admins"
+    job_accordion:
+      # job accordion loop item
+      - name : "Qualifications"
+        apply_url : "https://forms.gle/Q8Xvvy4VTGzcm7Hw9"
+        bullet_point:
+          - Lorem Ipsum is simply dummy text of the printing and typesetting industry
+          - Lorem Ipsum is simply dummy text of the printing and typesetting industry
+
+      # job accordion loop item
+      - name : "Responsibilities"
+        bullet_point:
+          - Lorem Ipsum is simply dummy text of the printing and typesetting industry
+          - Lorem Ipsum is simply dummy text of the printing and typesetting industry
