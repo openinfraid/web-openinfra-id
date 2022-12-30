@@ -1292,7 +1292,7 @@ figure.effect-oscar:hover img {
 .team-social a.fb:hover {
   background: #325c94; }
 
-.team-social a.twt:hover {
+.team-social a.twitter:hover {
   background: #00abdc; }
 
 .team-social a.gplus:hover {
