@@ -7,7 +7,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
         {{ $.Scratch.Set "counter" 0 }}
-        {{ range $data.volunteer.volunteer }}
+        {{ range $data.volunteers.volunteers }}
         {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
         <h3 class="title-border">{{ .title | markdownify }}</h3>
         <p>{{ .content | markdownify }}</p>
