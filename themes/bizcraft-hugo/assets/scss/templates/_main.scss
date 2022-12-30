@@ -1434,7 +1434,8 @@ figure.effect-oscar:hover img {
 
 ul.arrow li:before {
 	content: "\f105";
-	font-family: FontAwesome;
+  font-family: 'Font Awesome\ 6 Free';
+  font-weight: 900;
 	margin-right: 10px;
 }
 
@@ -1603,7 +1604,8 @@ ul.arrow li:before {
 
 		&::before,
 		&.collapsed::before {
-			font-family: FontAwesome;
+			font-family: 'Font Awesome\ 6 Free';
+			font-weight: 900;
 			position: absolute;
 			z-index: 0;
 			font-size: 16px;
@@ -1613,11 +1615,15 @@ ul.arrow li:before {
 		}
 		&::before{
 			content: "\f055";
+			font-family: 'Font Awesome\ 6 Free';
+			font-weight: 900;
 		}
 	}
 }
 .accordion .card-header a[aria-expanded="true"]::before {
 	content: "\f056";
+  font-family: 'Font Awesome\ 6 Free';
+  font-weight: 900;
 }
 
 /* Testimonial */

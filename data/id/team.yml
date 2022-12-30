@@ -7,15 +7,15 @@ team_member:
     image : "images/team/arya.png"
     designation : "Tenggarong"
     social:
-      - name : "fb"
+      - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "twt"
+      - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "linkdin"
+      - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         

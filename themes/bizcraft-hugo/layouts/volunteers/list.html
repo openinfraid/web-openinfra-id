@@ -60,7 +60,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 heading">
-        {{ with .title_icon }} <span class="title-icon float-left"><i class="fa {{ . }}"></i></span> {{ end }}
+        {{ with .title_icon }} <span class="title-icon float-left"><i class="fa-solid {{ . }}"></i></span> {{ end }}
         <h2 class="title">{{ .title | markdownify }} <span class="title-desc">{{ .subtitle | markdownify }}</span></h2>
       </div>
     </div><!-- Title row end -->
@@ -79,7 +79,7 @@
             <p>{{ .designation | markdownify }}</p>
             <div class="team-social">
               {{ range .social }}
-              <a class="{{ .name }}" href="{{ .link | safeURL }}"><i class="fa {{.icon}}"></i></a>
+              <a class="{{ .name }}" href="{{ .link | safeURL }}"><i class="fa-brands {{.icon}}"></i></a>
               {{ end }}
             </div>
           </div>
