@@ -7,8 +7,9 @@ company_profile:
     # profile tab item loop
     - name : "Who Are We"
       icon : "fa-info-circle" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "We Are Awwared Winning Company"
-      content : "Over the year we have lots of experience in our field. In sit amet massa sapien. Vestibulum diam turpis, gravida in lobortis id, ornare a eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis nulla non elit dignissim suscipit. Duis lorem nulla, eleifend."
+      title : "Openstack & OpenInfra Indonesia"
+      content : "Since 2018, the OpenStack and OpenInfra Indonesia User Group aim to provide support in the form of discussion forums which also provide opportunities for contributions to Open Infrastructure projects.
+      Under the auspices of the Open Infrastructure Foundation/OIF (https://openinfra.dev) domiciled in Austin-US, currently Indonesian User Group is managed directly by the Yayasan Suporter OpenInfra Indonesia, with 1,546 registered members (2022)"
       
     # profile tab item loop
     - name : "Sponsors"
