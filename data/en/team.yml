@@ -20,7 +20,7 @@ team_member:
         link : "#"
         
       - name : "website"
-        icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
   # team member loop
@@ -28,20 +28,20 @@ team_member:
     image : "images/team/bayu.png"
     designation : "Yogyakarta"
     social:
-      - name : "fb"
+      - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "twt"
+      - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "linkdin"
+      - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
       - name : "website"
-        icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
   # team member loop
@@ -49,20 +49,20 @@ team_member:
     image : "images/team/ary.png"
     designation : "Bogor"
     social:
-      - name : "fb"
+      - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "facebook.com/aryuliantos"
         
-      - name : "twt"
+      - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "twitter.com/aryuliantos"
         
-      - name : "linkdin"
+      - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "linkedin.com/in/aryulianto"
         
       - name : "website"
-        icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "aryulianto.com"
         
   # team member loop
@@ -70,20 +70,20 @@ team_member:
     image : "images/team/tika.png"
     designation : "Bogor"
     social:
-      - name : "fb"
+      - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "twt"
+      - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "linkdin"
+      - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
       - name : "website"
-        icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
   # team member loop
@@ -91,20 +91,20 @@ team_member:
     image : "images/team/team.png"
     designation : "Surabaya"
     social:
-      - name : "fb"
+      - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "twt"
+      - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "linkdin"
+      - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
       - name : "website"
-        icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
   # team member loop
@@ -112,20 +112,20 @@ team_member:
     image : "images/team/team.png"
     designation : "Condet"
     social:
-      - name : "fb"
+      - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "twt"
+      - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "linkdin"
+      - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
       - name : "website"
-        icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
   # team member loop
@@ -133,20 +133,20 @@ team_member:
     image : "images/team/team.png"
     designation : "Depok"
     social:
-      - name : "fb"
+      - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "twt"
+      - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
-      - name : "linkdin"
+      - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
         
       - name : "website"
-        icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
 
   # team member loop
@@ -154,18 +154,18 @@ team_member:
     image : "images/team/team.png"
     designation : "Bekasi"
     social:
-      - name : "fb"
+      - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
 
-      - name : "twt"
+      - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
 
-      - name : "linkdin"
+      - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
 
       - name : "website"
-        icon : "fa-dribbble" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "#"
