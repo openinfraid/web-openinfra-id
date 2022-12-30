@@ -316,8 +316,8 @@ link = "https://github.com/openinfraid"
 
 [[params.social]]
 name = "linkedin"
-icon = "fa-brands fa-linkedin" # fontawesome icon pack 6.2.1 | https://fontawesome.com/v6.2.1/icons/
-link = "https://www.linkedin.com/company/openinfra-foundation"
+icon = "fa-brands fa-telegram" # fontawesome icon pack 6.2.1 | https://fontawesome.com/v6.2.1/icons/
+link = "https://t.me/openstackindo"
 
 ################################### English language #####################################
 [Languages.en]
