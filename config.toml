@@ -7,7 +7,7 @@ paginate = "3"
 # post excerpt
 summaryLength = "10"
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-GWF3XS6QJL" # example : UA-123-45
 # disqus short name
 disqusShortname = "openinfraid" # get your shortname form here : https://disqus.com
 
@@ -186,7 +186,7 @@ weight = 3
   [[Languages.id.menu.main]]
   parent = "Kegiatan"
   name = "OpenInfra Days Indonesia"
-  URL = "oid"
+  URL = "https://events.openinfra.id"
 
   [[Languages.id.menu.main]]
   parent = "Kegiatan"
