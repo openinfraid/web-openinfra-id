@@ -263,7 +263,7 @@ email = "info@openinfra.id"
 # contact form action
 contact_form_action = "https://formspree.io/f/xgebwpbo" # contact form works with https://formspree.io
 # copyright
-copyright = "Find an issue with anything on this site? send Issue on [GitHub](https://github.com/openinfraid)"
+copyright = "Find an issue with anything on this site? send Issue on [GitHub](https://github.com/openinfraid/web-openinfra-id/issues)"
 
 # flickr photos
 #[[params.flickr_photos]]
@@ -328,7 +328,7 @@ weight = 1
 # footer content
 footer_content = "Group for anyone in Indonesia that interested in OpenInfra Foundation project."
 # copyright
-copyright = "Find an issue with anything on this site? send Issue on [GitHub](https://github.com/openinfraid)"
+copyright = "Find an issue with anything on this site? send Issue on [GitHub](https://github.com/openinfraid/web-openinfra-id/issues)"
 
 ################################### Indonesian language #####################################
 [Languages.id]
@@ -340,4 +340,4 @@ home = "Beranda"
 # footer content
 footer_content = "Grup untuk siapa saja di Indonesia yang tertarik dengan proyek OpenInfra Foundation."
 # copyright
-copyright = "Menemukan masalah apa pun di situs ini? kirim dan buat Issue di [GitHub](https://github.com/openinfraid)"
+copyright = "Menemukan masalah apa pun di situs ini? kirim dan buat Issue di [GitHub](https://github.com/openinfraid/web-openinfra-id/issues)"
