@@ -87,9 +87,9 @@ team_member:
         link : "#"
         
   # team member loop
-  - name : "Robert Aleska"
-    image : "images/team/team.png"
-    designation : "Surabaya"
+  - name : "Alief D Ikhsan"
+    image : "images/team/alief.png"
+    designation : "Sumenep"
     social:
       - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
@@ -101,7 +101,7 @@ team_member:
         
       - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "#"
+        link : "https://www.linkedin.com/in/aliefdikhsan/"
         
       - name : "website"
         icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
