@@ -101,27 +101,12 @@
       </div>
     </div><!-- Title row end -->
 
-    <div class="row text-center">
-      {{ range $index,$elements:= .emeritus_member }}
-      <div class="col-md-3 col-sm-6 mb-5">
-        <div class="team wow fadeInUp" data-wow-delay=".{{mul $index 2}}s">
-          <div class="img-hexagon">
-            <img src="{{ .image | absURL }}" alt="{{ .name | markdownify }}">
-            <span class="img-top"></span>
-            <span class="img-bottom"></span>
-          </div>
-          <div class="team-content">
-            <h3>{{ .name | markdownify }}</h3>
-            <p>{{ .designation | markdownify }}</p>
-            <div class="team-social">
-              {{ range .social }}
-              <a class="{{ .name }}" href="{{ .link | safeURL }}"><i class="fa-brands {{.icon}}"></i></a>
-              {{ end }}
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="emeritus-member text-left">
+      <ul>
+      {{ range (sort .emeritus_member "name") }}
+        <li>{{ .name }} - {{ .city }}</li>
       {{ end }}
+      </ul>
     </div>
     <!--/ Content row end -->
   </div>
