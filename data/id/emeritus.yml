@@ -1,0 +1,13 @@
+# Emeritus
+emeritus_title : "Anggota Emeritus"
+emeritus_subtitle : "Honorable Mention"
+emeritus_title_icon : "fa-medal"
+emeritus_member:
+  - name : "Dendy Putra Delly"
+    city : "Bogor"
+  - name : "Utian Ayuba"
+    city : "Jakarta"
+  - name : "B"
+    city : "Jakarta"
+  - name : "A"
+    city : "Jakarta"

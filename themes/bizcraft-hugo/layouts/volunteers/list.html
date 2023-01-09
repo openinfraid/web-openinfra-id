@@ -90,6 +90,27 @@
     <!--/ Content row end -->
   </div>
   <!--/ Container end -->
+
+{{ end }}
+{{ with $data.emeritus }}
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 heading">
+        {{ with .emeritus_title_icon }} <span class="title-icon float-left"><i class="fa-solid {{ . }}"></i></span> {{ end }}
+        <h2 class="title">{{ .emeritus_title | markdownify }} <span class="title-desc">{{ .emeritus_subtitle | markdownify }}</span></h2>
+      </div>
+    </div><!-- Title row end -->
+
+    <div class="emeritus-member text-left">
+      <ul>
+      {{ range (sort .emeritus_member "name") }}
+        <li>{{ .name }} - {{ .city }}</li>
+      {{ end }}
+      </ul>
+    </div>
+    <!--/ Content row end -->
+  </div>
+  <!--/ Container end -->
 </section>
 {{ end }}
 

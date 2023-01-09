@@ -49,6 +49,8 @@ link = "plugins/cd-hero/cd-hero.css"
 link = "plugins/openinfra/logo.css"
 [[params.plugins.css]]
 link = "plugins/openinfra/icon.css"
+[[params.plugins.css]]
+link = "plugins/openinfra/emeritus.css"
 
 # JS Fontawesome6
 [[params.plugins.js]]
