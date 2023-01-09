@@ -8,4 +8,4 @@ description: "This is meta description."
 draft: false
 ---
 
-Ask Me Anything!
+Tanya apa saja kepada saya!
