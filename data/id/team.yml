@@ -108,25 +108,25 @@ team_member:
         link : "#"
         
   # team member loop
-  - name : "Taline Voski"
-    image : "images/team/team.png"
-    designation : "Condet"
+  - name : "Pahrial MS"
+    image : "images/team/pahrial.png"
+    designation : "Lampung"
     social:
       - name : "facebook"
         icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "#"
+        link : "https://www.facebook.com/pahrial.ms"
         
       - name : "twitter"
         icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "#"
+        link : "https://twitter.com/m_pahrial"
         
       - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "#"
+        link : "https://www.linkedin.com/in/pahrialms"
         
       - name : "website"
         icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "#"
+        link : "https://pahrialms.medium.com"
         
   # team member loop
   - name : "Alban Spencer"
