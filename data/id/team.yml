@@ -135,15 +135,7 @@ team_member:
   - name : "Moch Rafi Riadi"
     image : "images/team/rydrafi13.png"
     designation : "Lampung"
-    social:
-      - name : "facebook"
-        icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "#"
-        
-      - name : "twitter"
-        icon : "fa-twitter" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-        link : "#"
-        
+    social: 
       - name : "linkedin"
         icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "https://id.linkedin.com/in/rafiriadi13"
@@ -151,6 +143,10 @@ team_member:
       - name : "website"
         icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "https://rydrafi13.github.io/myblog/"
+        
+      - name : "telegram"
+        icon : "fa-telegram" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://t.me/rafiryd"
 
   # team member loop
   - name : "Alban Spencer"
