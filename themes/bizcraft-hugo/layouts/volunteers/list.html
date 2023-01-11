@@ -32,7 +32,7 @@
           </div>
           {{ end }}
           <div class="gap-20"></div>
-          <p><a href="https://forms.gle/TCWj9xTCmbmgF3PCA" class="btn btn-primary solid">Apply Now <i class="fa fa-long-arrow-right"></i></a></p>
+          <p><a href="https://forms.gle/TCWj9xTCmbmgF3PCA" class="btn btn-primary solid" target="_blank">Apply Now <i class="fa fa-long-arrow-right"></i></a></p>
         </div>
         <div class="gap-40"></div>
         {{ end }}
@@ -79,7 +79,7 @@
             <p>{{ .designation | markdownify }}</p>
             <div class="team-social">
               {{ range .social }}
-              <a class="{{ .name }}" href="{{ .link | safeURL }}"><i class="fa-brands {{.icon}}"></i></a>
+              <a class="{{ .name }}" href="{{ .link | safeURL }}" target="_blank"><i class="fa-brands {{.icon}}"></i></a>
               {{ end }}
             </div>
           </div>

@@ -36,7 +36,7 @@
             <h4>Presentations</h4>
             <ul>
               {{ range .Params.presentation }}
-              <li><a href="{{ .link | absURL }}">{{ .title }}
+              <li><a href="{{ .link | absURL }}" target="_blank">{{ .title }}
 							</a></li>
               {{ end }}
             </ul>
@@ -44,7 +44,7 @@
           <h4>Connect</h4>
           <ul class="list-inline">
             {{ range .Params.Social }}
-            <li class="list-inline-item"><a href="{{ .link | absURL }}">
+            <li class="list-inline-item"><a href="{{ .link | absURL }}" target="_blank">
               <span class="icon-pentagon wow bounceIn"><i class="fa-brands {{.icon}}"></i></span>
             </a></li>
             {{ end }}
