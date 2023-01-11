@@ -57,7 +57,7 @@
 				<ul class="footer-social unstyled">
 					<li>
 						{{ range .Site.Params.social }}
-						<a title="{{ .name }}" href="{{ .link | absURL }}">
+						<a title="{{ .name }}" href="{{ .link | absURL }}" target="_blank">
 							<span class="icon-pentagon wow bounceIn"><i class="{{.icon}}"></i></span>
 						</a>
 						{{ end }}

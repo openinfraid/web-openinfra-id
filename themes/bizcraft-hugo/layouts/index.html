@@ -25,7 +25,7 @@
           <h2>{{ .title | markdownify }}</h2>
           <h3>{{ .subtitle | markdownify }}</h3>
           {{ range .buttons }}
-          <a href="{{ .link | relLangURL }}" class="btn btn-primary {{.style}} cd-btn">{{ .label }}</a>
+          <a href="{{ .link | relLangURL }}" target="_blank" class="btn btn-primary {{.style}} cd-btn">{{ .label }}</a>
           {{ end }}
         </div>
         {{if eq $imgPosition "left"}}
@@ -209,7 +209,7 @@
       <div id="client-carousel" class="col-sm-12 owl-carousel owl-theme text-center client-carousel">
         {{ range .slider_item }}
         <figure class="m-0 item client_logo">
-          <a href="{{ .link | safeURL }}">
+          <a href="{{ .link | safeURL }}" target="_blank">
             <img src="{{ .logo | absURL }}" alt="{{ .name }}">
           </a>
         </figure>
