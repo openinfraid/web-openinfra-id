@@ -185,3 +185,24 @@ team_member:
       - name : "telegram"
         icon : "fa-telegram" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "https://t.me/sfebriheri19"
+        
+  # team member loop
+  - name : "Fadilah Riczky"
+    image : "images/team/fadil.jpg"
+    designation : "Yogyakarta"
+    social:
+      - name : "facebook"
+        icon : "fa-facebook" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://facebook.com/riczky07"
+        
+      - name : "twitter"
+        icon : "fa-github" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://github.com/friczky"
+        
+      - name : "linkedin"
+        icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://linkedin.com/in/friczky"
+        
+      - name : "website"
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://friczky.my.id"
