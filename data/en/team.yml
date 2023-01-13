@@ -168,3 +168,20 @@ team_member:
       - name : "website"
         icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "https://aryapramudika.com"
+        
+    #team member loop
+    - name : "Febry Heri Setiyawan"
+      image : "images/team/Febry.jpg"
+      designation : "Madiun"
+      social :
+        name : "linkedin"
+        icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://id.linkedin.com/in/febry-heri-setiyawan"
+        
+        name : "website"
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://github.com/sfebriheri"
+        
+        name : "telegram"
+        icon : "fa-telegram" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://t.me/sfebriheri19"
