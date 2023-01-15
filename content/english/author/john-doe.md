@@ -3,7 +3,7 @@ title: "John Doe"
 # page header background image
 page_header_bg: "images/banner/banner-oid.png.jpg"
 # portrait
-image: ""
+image: "images/team/arya.png"
 # email
 email: "email2@example.org"
 # social site
@@ -21,5 +21,4 @@ description: "This is meta description."
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+He is John Doe
