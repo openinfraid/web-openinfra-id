@@ -1,5 +1,5 @@
 ---
-title: "Andika Davi"
+title: "Angga A. Lanuma"
 # Bio
 bio: ""
 # page header background image
