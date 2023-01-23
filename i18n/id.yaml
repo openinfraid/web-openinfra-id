@@ -33,3 +33,19 @@
 
 - id: contact_details
   translation: Detail Kontak
+
+# Speakers
+- id: speaker_hometown
+  translation: Asal Kota
+
+- id: speaker_affiliation
+  translation: Afiliasi
+
+- id: speaker_lang
+  translation: Bahasa
+
+- id: speaker_presentation
+  translation: Presentasi
+
+- id: speaker_connect
+  translation: Terhubung
