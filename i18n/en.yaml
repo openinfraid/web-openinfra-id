@@ -33,3 +33,19 @@
 
 - id: contact_details
   translation: Contact Details
+
+# Speakers
+- id: speaker_hometown
+  translation: Hometown
+
+- id: speaker_affiliation
+  translation: Affiliation
+
+- id: speaker_lang
+  translation: Language
+
+- id: speaker_presentation
+  translation: Presentations
+
+- id: speaker_connect
+  translation: Connect

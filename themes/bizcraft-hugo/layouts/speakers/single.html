@@ -23,17 +23,17 @@
           <div class="text-left">
             <h4>Bio</h4>
             <p> {{ .Params.bio }} </p>
-            <h4>Hometown</h4>
+            <h4>{{i18n `speaker_hometown`}}</h4>
             <p> {{ .Params.hometown }} </p>
-            <h4>Affiliation</h4>
+            <h4>{{i18n `speaker_affiliation`}}</h4>
             <p> {{ .Params.affiliation }} </p>
-            <h4>Language</h4>
+            <h4>{{i18n `speaker_lang`}}</h4>
             <ul>
               {{ range .Params.languange }}
               <li>{{ . }}</li>
               {{ end }}
             </ul>
-            <h4>Presentations</h4>
+            <h4>{{i18n `speaker_presentation`}}</h4>
             <ul>
               {{ range .Params.presentation }}
               <li><a href="{{ .link | absURL }}" target="_blank">{{ .title }}
@@ -41,7 +41,7 @@
               {{ end }}
             </ul>
           </div>
-          <h4>Connect</h4>
+          <h4>{{i18n `speaker_connect`}}</h4>
           <ul class="list-inline">
             {{ range .Params.Social }}
             <li class="list-inline-item"><a href="{{ .link | absURL }}" target="_blank">
