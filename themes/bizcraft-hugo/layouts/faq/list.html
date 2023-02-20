@@ -13,7 +13,7 @@
         <p>{{ .content | markdownify }}</p>
         <div class="accordion" id="accordion{{$.Scratch.Get `counter`}}">
           {{ $.Scratch.Set "counter2" 0 }}
-          {{ range .job_accordion }}
+          {{ range .faq_accordion }}
           {{ $.Scratch.Set "counter2" (add ($.Scratch.Get "counter2") 1) }}
           <div class="card border rounded mb-2">
             <div class="card-header p-0">

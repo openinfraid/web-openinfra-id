@@ -1,8 +1,8 @@
 faq:
   ########################## faq item loop ##########################
   - title : "Komunitas & Keanggotaan"
-    job_accordion:
-      # job accordion loop item
+    faq_accordion:
+      # faq accordion loop item
       - name : "Apakah OpenStack & OpenInfra Indonesia memiliki basecamp?"
         bullet_point:
           - Tidak ada, pengurus kami dari berbagai kota di Indonesia tapi kami biasanya mengadaan regular meetup tiap bulan di kota-kota yang berbeda.
@@ -19,8 +19,8 @@ faq:
           - Silakan ajukan ketertarikan anda ke email volunteers@openinfra.id  
 
   - title : "Regular Meetup"
-    job_accordion:
-      # job accordion loop item
+    faq_accordion:
+      # faq accordion loop item
       - name : "Kapan dan di mana regular meetup diadakan?"
         bullet_point:
           - Regular meetup diadakan tiap 1 bulan sekali, untuk kotanya dimana saja di Indonesia
