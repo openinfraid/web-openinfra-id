@@ -1,0 +1,34 @@
+faq:
+  ########################## faq item loop ##########################
+  - title : "Community & Membership"
+    job_accordion:
+      # job accordion loop item
+      - name : "Does OpenStack & OpenInfra Indonesia have a basecamp?"
+        bullet_point:
+          - No. Our administrators come from various cities in Indonesia but we usually hold regular meetups every month in different cities.
+      - name : "How to become a member of OpenStack & OpenInfra Indonesia?"
+        bullet_point:
+          - Join us at https://meetup.com/openinfraid
+          - Join our telegram group at https://t.me/openstackindo
+          - And discuss anything about Open Infrastructure
+      - name : "Are the organizers of OpenStack & OpenInfra Indonesia will be paid?"
+        bullet_point:
+          - No. OpenStack & OpenInfra Indonesia is a non-profit community and our activity in managing is voluntary so there is no payment will be given to the organizers. 
+      - name : "How to become an organizer of OpenStack & OpenInfra Indonesia?"
+        bullet_point:
+          - Please submit your interest to us via email at volunteers@openinfra.id   
+
+  - title : "Regular Meetup"
+    job_accordion:
+      # job accordion loop item
+      - name : "When and where regular meetups will be held?"
+        bullet_point:
+          - Regular meetups are held once a month, everywhere in Indonesia (possible to held in your city also!)
+          - Usually on Sunday in last week of each month.
+      - name : "Are regular meetups is a paid event?"
+        bullet_point:
+          - No. You can join the regular meetups with free of charge and invite your friends to come.
+      - name : "How to be a speaker at a regular meetup event?"
+        bullet_point:
+          - Please read the guidelines for becoming a speaker [here](https://docs.google.com/document/u/2/d/1TrjTJbD4J8rRmGVCrwMJrGikhbUkpk2AQbJmFGn2Zzc/edit)
+          - Complete the form and submit [here](https://docs.google.com/forms/d/e/1FAIpQLScASUo9wakhGmV0-T1wdJKnsZ67eV0o0CTa16bVUIP3xykw9Q/viewform)           

@@ -1,0 +1,34 @@
+faq:
+  ########################## faq item loop ##########################
+  - title : "Komunitas & Keanggotaan"
+    job_accordion:
+      # job accordion loop item
+      - name : "Apakah OpenStack & OpenInfra Indonesia memiliki basecamp?"
+        bullet_point:
+          - Tidak ada, pengurus kami dari berbagai kota di Indonesia tapi kami biasanya mengadaan regular meetup tiap bulan di kota-kota yang berbeda.
+      - name : "Bagaimana cara menjadi anggota OpenStack & OpenInfra Indonesia?"
+        bullet_point:
+          - Bergabung ke https://meetup.com/openinfraid
+          - Bergabung ke Telegram group https://t.me/openstackindo
+          - Dan diskusi apapun tentang proyek infrastuktur terbuka
+      - name : "Apakah pengurus Openstack & Openinfra Indonesia dibayar?"
+        bullet_point:
+          - Tidak, Openstack & Openinfra Indonesia merupakan komunitas nonprofit dan aktivitas kepengurusan kami bersifat sukarela (volunteer) sehingga tidak ada bayaran untuk pengurusnya.
+      - name : "Bagaimana cara menjadi pengurus OpenStack & OpenInfra Indonesia?"
+        bullet_point:
+          - Silakan ajukan ketertarikan anda ke email volunteers@openinfra.id  
+
+  - title : "Regular Meetup"
+    job_accordion:
+      # job accordion loop item
+      - name : "Kapan dan di mana regular meetup diadakan?"
+        bullet_point:
+          - Regular meetup diadakan tiap 1 bulan sekali, untuk kotanya dimana saja di Indonesia
+          - Biasanya hari Sabtu, di Minggu terakhir setiap bulannya
+      - name : "Apakah regular meetup berbayar?"
+        bullet_point:
+          - Tidak, regular meetup tidak dipungut biaya alias gratis, silakan bergabung dan ajak teman-temanmu untuk datang.
+      - name : "Bagaimana cara menjadi pembicara di event meetup?"
+        bullet_point:
+          - Silakan baca pedoman menjadi pembicara [disini](https://docs.google.com/document/u/2/d/1TrjTJbD4J8rRmGVCrwMJrGikhbUkpk2AQbJmFGn2Zzc/edit)
+          - Lengkapi formnya dan submit [disini](https://docs.google.com/forms/d/e/1FAIpQLScASUo9wakhGmV0-T1wdJKnsZ67eV0o0CTa16bVUIP3xykw9Q/viewform)           
