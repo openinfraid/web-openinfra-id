@@ -16,5 +16,4 @@ volunteers@openinfra.id
 
 ### Let's Contribute
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, natus
-voluptatibus adipisci porro magni dolore eos eius ducimus corporis quos perspiciatis quis iste, vitae.
+If you have expertise in IT and want to share it with others, then we invite you to join as a volunteer in our organization. Together we can use technology for a better purpose

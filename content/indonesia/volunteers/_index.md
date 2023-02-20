@@ -8,14 +8,10 @@ description: "This is meta description."
 draft: false
 ---
 
-### How to Apply
+### Bagaimana cara mendaftar
 
-Send your cv, relevant work experience and anything else that will make you stand out to
-volunteers@openinfra.id
+Kirimkan pengalaman sukarelawan yang relevan dan apa pun yang akan membuat Anda menjadi kandidat yang menonjol ke volunteers@openinfra.id
 
+### Mari berkontribusi
 
-### Why Us
-
-We are an awward winning company. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, natus
-voluptatibus adipisci porro magni dolore eos eius ducimus corporis quos perspiciatis quis iste, vitae
-autem libero ullam omnis cupiditate quam.
+Jika kamu memiliki keahlian di bidang IT dan ingin membagikannya kepada orang lain, maka kami mengundangmu untuk bergabung sebagai sukarelawan di organisasi kami. Bersama-sama kita bisa memanfaatkan teknologi untuk tujuan yang lebih baik.
