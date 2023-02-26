@@ -1,17 +1,17 @@
 ---
-title: "Kiki Fakhri Dermawan"
+title: "Nicolas Julian"
 # Bio
 bio: ""
 # page header background image
 page_header_bg: "images/banner/banner-oid.png"
 # portrait
-image: "images/speakers/kiki.jpg"
+image: "images/speakers/nicolas-julian.png"
 # email
 email: ""
 # Hometown
 hometown: ""
 # Workplace
-Affiliation: ""
+Affiliation: "Jubelio"
 # Language
 languange:
   - Bahasa Indonesia
@@ -27,10 +27,9 @@ social:
     link : "#"
 
 presentation:
-  - title: "Introduction to AI/ML/HPC Environment in OpenStack"
-    link : "https://www.youtube.com/watch?v=XBbqjSUPV6c"
-  - title: "HPC on OpenStack - Simple Case"
-    link : "https://www.youtube.com/watch?v=pKZHDXU-UvU&t=3490s"
+  - title: "Orchestrating your Virtual Machine in GitOps way with KubeVirt"
+    link : "https://www.youtube.com/watch?v=1kFQDEC057s&t=2182s"
+     
 
 # meta description
 description: "This is meta description."
