@@ -5,7 +5,7 @@ faq:
       # faq accordion loop item
       - name : "Apakah OpenStack & OpenInfra Indonesia memiliki basecamp?"
         bullet_point:
-          - Tidak ada, pengurus kami dari berbagai kota di Indonesia tapi kami biasanya mengadaan regular meetup tiap bulan di kota-kota yang berbeda.
+          - Tidak ada, pengurus kami dari berbagai kota di Indonesia tapi kami biasanya mengadakan regular meetup tiap bulan di kota-kota yang berbeda.
       - name : "Bagaimana cara menjadi anggota OpenStack & OpenInfra Indonesia?"
         bullet_point:
           - Bergabung ke https://meetup.com/openinfraid
