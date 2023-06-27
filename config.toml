@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.openinfra.id"
+baseURL = "/"
 title = "OpenStack & OpenInfra Indonesia User Group"
 theme = "bizcraft-hugo"
 # post pagination
