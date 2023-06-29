@@ -1,5 +1,5 @@
 ---
-title: "Aldin Setiawan"
+title: "Korean Openstack & Openinfra UG"
 # Bio
 bio: ""
 # page header background image
@@ -11,26 +11,27 @@ email: ""
 # Hometown
 hometown: ""
 # Workplace
-Affiliation: "PT Boer Technology"
+Affiliation: ""
 # Language
 languange:
-  - Bahasa Indonesia
+  - English
 # social site
 social:
   - icon : "fa-facebook"
     link : "#"
   - icon : "fa-twitter"
-    link : ""
+    link : "#"
   - icon : "fa-linkedin"
-    link : ""
+    link : "#"
   - icon : "fa-instagram"
     link : "#"
 
 presentation:
-  - title: "[YOUTUBE] Deep Dive Containerization Technology"
-    link : "https://www.youtube.com/watch?v=pKZHDXU-UvU&t=3490s"
-  - title: "[SLIDE] Deep Dive Containerization Technology"
-    link : "https://drive.google.com/file/d/156dUJ5vP70AJMLF8AebJ-OIhnr-0_n90/view?usp=drive_link"
+  - title: "[YOUTUBE] Study Group of Skyline Project"
+    link : "https://www.youtube.com/watch?v=AZ0fCh2iQVc"
+  - title: "[SLIDE] Study Group of Skyline Project"
+    link : "https://drive.google.com/file/d/1QOJ7dJq1bQwYw1j91m6J5xmL8ApMIUXK/view?usp=drive_link"
+
 # meta description
 description: "This is meta description."
 # save as draft
