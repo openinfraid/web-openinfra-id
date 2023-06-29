@@ -29,8 +29,10 @@ social:
 presentation:
   - title: "Introduction to AI/ML/HPC Environment in OpenStack"
     link : "https://www.youtube.com/watch?v=XBbqjSUPV6c"
-  - title: "HPC on OpenStack - Simple Case"
+  - title: "[YOUTUBE] HPC on OpenStack - Simple Case"
     link : "https://www.youtube.com/watch?v=pKZHDXU-UvU&t=3490s"
+  - title: "[SLIDE] HPC on OpenStack - Simple Case"
+    link : "https://drive.google.com/file/d/1YAJMJ5UrKxYNGJUGw9V59kh0oiRLUqJ3/view?usp=drive_link"
 
 # meta description
 description: "This is meta description."
