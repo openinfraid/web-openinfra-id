@@ -1,14 +1,14 @@
 ---
-title: "OpenStack Meetup #3"
-date: 2020-05-12T12:14:34+06:00
+title: "OpenStack Meetup #12"
+date: 2023-01-28T12:14:34+06:00
 # page header background image
 page_header_bg: "images/banner/banner-oid.png.jpg"
 images: 
-  - "images/portfolio/meetup-3.jpg"
+  - "images/portfolio/meetup-12.png"
 # filter types
 types: ["Regular Meetup"]
 # porjects link
-project_link : "https://www.meetup.com/openinfraid/events/264515135"
+project_link : "https://www.meetup.com/openinfraid/events/291014246/"
 # meta description
 description: "This is meta description."
 # save as draft
