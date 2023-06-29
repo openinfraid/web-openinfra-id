@@ -15,4 +15,4 @@ description: "This is meta description."
 draft: false
 ---
 
-OpenInfra Days is a conference organized by Open Infrastructure User Group around the world. And focused on Open Infrastructure Projects and any related topics. The Indonesia OpenInfra Days bring together users, businesses, developers, and operations from various organizations to discuss the open infrastructure that utilizes open source software and hardware. This is a continuation of our regular conference Indonesia Open Infra Days.
+The OpenStack and OpenInfra Indonesia User Group is an active community that supports and promotes the use of OpenStack and related technologies in Indonesia. This community regularly organizes monthly meetups on the last day of each month. These meetups provide an opportunity for community members, OpenStack users, and IT professionals to gather, share knowledge, and build connections. Each meetup features engaging presentations, panel discussions, and Q&A sessions. With these regular meetups, the OpenStack and OpenInfra Indonesia community continues to grow and make positive contributions to the advancement of cloud technology and open infrastructure in Indonesia.
