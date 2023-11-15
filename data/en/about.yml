@@ -19,9 +19,9 @@ company_profile:
      
     # profile tab item loop
     - name : "Donation"
-      icon : "fa-money" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      icon : "fa fa-money" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Donation"
-      content : "Scan QRIS to make a donation"
+      content : ""
       image : "/images/qris.jpg" 
 
 ############################### funfact ##################################
