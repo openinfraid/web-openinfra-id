@@ -1,7 +1,7 @@
 volunteers:
   ########################## volunteers item loop ##########################
   - title : "Call for Volunteers"
-    content : "The OpenStack & OpenInfra Indonesia community is opening opportunities for those of you who want to contribute to becoming new volunteers/admins"
+    content : "The Openinfra Indonesia User Group community is opening opportunities for those of you who want to contribute to becoming new volunteers/admins"
     job_accordion:
       # job accordion loop item
       - name : "Qualifications"
