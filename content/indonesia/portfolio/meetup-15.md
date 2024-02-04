@@ -4,7 +4,7 @@ date: 2023-06-08T12:14:34+06:00
 # page header background image
 page_header_bg: "images/banner/banner-oid.png.jpg"
 images: 
-  - "images/portfolio/meetup-15.jpg"
+  - "images/portfolio/meetup-15.png"
 # filter types
 types: ["Regular Meetup"]
 # porjects link
