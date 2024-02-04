@@ -31,6 +31,8 @@ presentation:
     link : "https://www.youtube.com/watch?v=ZnSlLiHVwlY&t=194s"
   - title: "Scalable Object Storage Solution with Ceph RGW and Keystone"
     link : "https://www.youtube.com/watch?v=haYYhtYHeJA&t=1s"
+  - title: "CEPHADM 101"
+    link : "https://www.youtube.com/live/AZ0fCh2iQVc?si=JurnD5KSPltJCx_b&t=823"
 
 # meta description
 description: "This is meta description."
