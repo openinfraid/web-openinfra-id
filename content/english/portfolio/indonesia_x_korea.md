@@ -1,10 +1,10 @@
 ---
-title: "OpenStack Meetup #15"
+title: "OpenStack Meetup Collaboration Indonesia x South Korea"
 date: 2023-06-08T12:14:34+06:00
 # page header background image
 page_header_bg: "images/banner/banner-oid.png.jpg"
 images: 
-  - "images/portfolio/meetup-15.png"
+  - "images/portfolio/indonesia_x_korea.jpg"
 # filter types
 types: ["Regular Meetup"]
 # porjects link
