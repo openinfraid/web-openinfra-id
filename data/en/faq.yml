@@ -3,18 +3,18 @@ faq:
   - title : "Community & Membership"
     faq_accordion:
       # faq accordion loop item
-      - name : "Does OpenStack & OpenInfra Indonesia have a basecamp?"
+      - name : "Does Openinfra Indonesia User Group have a basecamp?"
         bullet_point:
           - No, our committee come from various cities in Indonesia but we usually hold regular meetups every month in different cities.
-      - name : "How to become a member of OpenStack & OpenInfra Indonesia?"
+      - name : "How to become a member of Openinfra Indonesia User Group?"
         bullet_point:
           - Join us at https://meetup.com/openinfraid
           - Join our telegram group at https://t.me/openstackindo
           - And discuss anything about Open Infrastructure
-      - name : "Are the organizers of OpenStack & OpenInfra Indonesia will be paid?"
+      - name : "Are the organizers of Openinfra Indonesia User Group will be paid?"
         bullet_point:
-          - No, OpenStack & OpenInfra Indonesia is a non-profit community and our activity in managing is voluntary so there is no payment will be given to the organizers. 
-      - name : "How to become an organizer of OpenStack & OpenInfra Indonesia?"
+          - No, Openinfra Indonesia User Group is a non-profit community and our activity in managing is voluntary so there is no payment will be given to the organizers. 
+      - name : "How to become an organizer of Openinfra Indonesia User Group?"
         bullet_point:
           - Please submit your interest to us via email at volunteers@openinfra.id   
 
