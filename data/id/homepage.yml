@@ -89,7 +89,7 @@ funfact:
     # funfact item loop
     - name : "Members"
       icon : "fa-solid fa-users fa-2xl" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      count : "1638"
+      count : "2015"
       
     # funfact item loop
     - name : "Annual Events"
@@ -99,12 +99,12 @@ funfact:
     # funfact item loop
     - name : "Meetup"
       icon : "fa-solid fa-person-chalkboard fa-2xl" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      count : "14"
+      count : "21"
       
     # funfact item loop
     - name : "Speaker"
       icon : "fa-solid fa-user-check fa-2xl" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      count : "84"
+      count : "94"
 
   
 ############################### feature ##################################
