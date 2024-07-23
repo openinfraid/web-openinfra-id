@@ -1,7 +1,7 @@
 volunteers:
   ########################## volunteers item loop ##########################
   - title : "Panggilan untuk relawan"
-    content : "Komunitas OpenStack & OpenInfra Indonesia membuka peluang bagi mereka yang ingin berkontribusi sebagai relawan/admin baru."
+    content : "Komunitas Openinfra Indonesia User Group membuka peluang bagi mereka yang ingin berkontribusi sebagai relawan/admin baru."
     job_accordion:
       # job accordion loop item
       - name : "Kualifikasi"

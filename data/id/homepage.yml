@@ -3,7 +3,7 @@ slider:
   enable : true
   slider_item:
     ################# Slider item loop
-    - title : "OpenStack & OpenInfra Indonesia User Group"
+    - title : "Openinfra Indonesia User Group"
       subtitle : "We Are OpenInfra | Kami OpenInfra"
       bg_image : "images/slider/oid-sby.webp"
       image : ""

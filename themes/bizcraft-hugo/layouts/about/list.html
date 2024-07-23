@@ -33,6 +33,7 @@
             id="{{.name | urlize}}" role="tabpanel">
             <i class="fa {{.icon}} icon-xl text-primary mb-4"></i>
             <h3>{{ .title | markdownify }}</h3>
+            <img src="{{ .image | absURL }}" alt="{{ .name | markdownify }}">
             <p>{{ .content | markdownify }}</p>
           </div>
           {{ end }}

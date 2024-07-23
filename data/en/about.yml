@@ -7,8 +7,8 @@ company_profile:
     # profile tab item loop
     - name : "Who Are We"
       icon : "fa-info-circle" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "Openstack & OpenInfra Indonesia"
-      content : "Since 2018, the OpenStack and OpenInfra Indonesia User Group aim to provide support in the form of discussion forums which also provide opportunities for contributions to Open Infrastructure projects.
+      title : "Openinfra Indonesia User Group"
+      content : "Since 2018, the Openinfra Indonesia User Group aim to provide support in the form of discussion forums which also provide opportunities for contributions to Open Infrastructure projects.
       Under the auspices of the Open Infrastructure Foundation/OIF (https://openinfra.dev) domiciled in Austin-US, currently Indonesian User Group is managed directly by the Yayasan Suporter OpenInfra Indonesia, with 1,546 registered members (2022)"
       
     # profile tab item loop
@@ -16,7 +16,14 @@ company_profile:
       icon : "fa-usd" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Sponsors"
       content : "If you are interested in hearing more about how your organisation can be a part of this community, leave us a [message](https://www.openinfra.id/contact/) or email us at sponsor@openinfra.id"
-      
+     
+    # profile tab item loop
+    - name : "Donation"
+      icon : "fa fa-money" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      title : "Donation"
+      content : ""
+      image : "/images/qris.jpg" 
+
 ############################### funfact ##################################
 funfact:
   enable : true

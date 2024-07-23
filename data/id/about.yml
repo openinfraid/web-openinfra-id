@@ -7,8 +7,8 @@ company_profile:
     # profile tab item loop
     - name : "Siapa Kita"
       icon : "fa-info-circle" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "OpenStack & OpenInfra Indonesia"
-      content : "Sejak didirikan pada tahun 2018, Komunitas OpenStack dan OpenInfra Indonesia User Group bertujuan untuk memberikan dukungan dalam bentuk forum diskusi yang juga di dalamnya membuka peluang kontribusi ke dalam proyek - proyek Infrastruktur Terbuka. Berada di bawah naungan Open Infrastructure Foundation/OIF(https://openinfra.dev) berkedudukan di Austin-US, saat ini, Grup Pengguna Indonesia dikelola langsung oleh Yayasan Suporter OpenInfra Indonesia dengan jumlah anggota saat ini sebanyak 1.546 (2022)."
+      title : "Openinfra Indonesia User Group"
+      content : "Sejak didirikan pada tahun 2018, Komunitas OpenInfra Indonesia User Group bertujuan untuk memberikan dukungan dalam bentuk forum diskusi yang juga di dalamnya membuka peluang kontribusi ke dalam proyek - proyek Infrastruktur Terbuka. Berada di bawah naungan Open Infrastructure Foundation/OIF(https://openinfra.dev) berkedudukan di Austin-US, saat ini, Grup Pengguna Indonesia dikelola langsung oleh Yayasan Suporter OpenInfra Indonesia dengan jumlah anggota saat ini sebanyak 1.546 (2022)."
       
     # profile tab item loop
     - name : "Sponsor"
