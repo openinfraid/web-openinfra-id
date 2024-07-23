@@ -246,7 +246,7 @@ clients_logo_slider:
       link : "about"  
     # slider item loop
     - name : "client"
-      logo : "images/clients/client1.png"
+      logo : "images/clients/ion-network.png"
       link : "about"
     # slider item loop
     - name : "client"

@@ -246,8 +246,8 @@ clients_logo_slider:
       link : "https://www.biznetgio.com"  
     # slider item loop
     - name : "client"
-      logo : "images/clients/client1.png"
-      link : "about"
+      logo : "images/clients/ion-network.png"
+      link : "https://ionnetwork.id"
     # slider item loop
     - name : "client"
       logo : "images/clients/client1.png"
