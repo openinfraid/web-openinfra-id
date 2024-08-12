@@ -206,3 +206,24 @@ team_member:
       - name : "website"
         icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
         link : "https://friczky.my.id"
+
+  # team member loop
+  - name : "Renaldy Gatan Pramana"
+    image : "images/team/gatan.png"
+    designation : "Lampung"
+    social:
+      - name : "github"
+        icon : "fa-github" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://github.com/maliqpotter"
+        
+      - name : "linkedin"
+        icon : "fa-linkedin" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://www.linkedin.com/in/renaldygatan"
+        
+      - name : "website"
+        icon : "fa-chrome" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://im-gatan.com"
+
+      - name : "telegram"
+        icon : "fa-telegram" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        link : "https://t.me/maliqpotter"
