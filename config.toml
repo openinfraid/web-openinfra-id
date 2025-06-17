@@ -3,7 +3,7 @@ baseURL = "https://www.openinfra.id/"
 title = "Openinfra Indonesia User Group"
 theme = "bizcraft-hugo"
 # post pagination
-paginate = "3"
+# paginate = "3"
 # post excerpt
 summaryLength = "10"
 # google analytics
